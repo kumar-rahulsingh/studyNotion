@@ -8,20 +8,20 @@ const contactDetails = [
     icon: "HiChatBubbleLeftRight",
     heading: "Chat on us",
     description: "Our friendly team is here to help.",
-    details: "info@sudarshan.com",
+    details: "Rahul.com",
   },
   {
     icon: "BiWorld",
     heading: "Visit us",
     description: "Come and say hello at our office HQ.",
     details:
-      "Kalyani West Bengal, India, 741235",
+      "IKG punjab technical university, India, 144601",
   },
   {
     icon: "IoCall",
     heading: "Call us",
     description: "Mon - Fri From 8am to 5pm",
-    details: "+916375778714",
+    details: "+91 9807738537",
   },
 ]
 
